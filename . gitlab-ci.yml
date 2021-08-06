@@ -1,0 +1,5 @@
+# annielytics
+
+Use .gitlab-ci.yml
+script:
+  - "curl -X POST -F token=a83f8f78f9b39934dbff6b9a7ad091 -F ref=AnnielyticsUpdate https://gitlab.com/api/v4/projects/28676659/trigger/pipeline"
