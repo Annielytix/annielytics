@@ -1,10 +1,11 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Welcome to An Eye 4 AI with Annielytics
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Home to all things AI and women in tech.
+
 
 
